@@ -1,0 +1,18 @@
+.div {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.div .content {
+    width: 70vw;
+}
+
+.div div {
+    margin-left: 1vw;
+}
+
+.div button {
+    margin-left: 5vw;
+}

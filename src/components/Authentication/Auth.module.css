@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form div {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.form div a{
+    text-decoration: none;
+}
